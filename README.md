@@ -36,3 +36,6 @@ Data are provided in the file “loan.csv”. No additional details are expected
 ## Acknowledgemnts
 The project was assigned and guided by Upgrad
 
+## Contact
+Created by Suresh and Chaya Lakshmi Paruchuri
+
