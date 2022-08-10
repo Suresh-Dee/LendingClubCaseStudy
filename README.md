@@ -1,4 +1,5 @@
 Project Name: Lending Club Case Study
+
 Problem statement:
 Banks are lending loans to their existing customer or new customers. Before sanctioning a loan to any customer, Banks are supposed to check the risk involved in sanctioning loan to a customer/borrower. It is important to check whether the customer can repay the loan as per schedule without any default. Default of loan payment will be loss to the Banks. At the same time, if loans are not sanctioned to many customers considering the risks, Banks will lose business. Banks need to have mechanism to identify customers/borrowers who are likely to default
 
